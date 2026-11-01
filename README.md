@@ -1,2 +1,2 @@
 # shoppers-demo
-This first git repository
+This is shoppers first git repository
